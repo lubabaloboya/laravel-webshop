@@ -1,3 +1,13 @@
+########################### How to use ################################################################
+
+- Clone the repository
+- MySQL create database name: webshop
+- Copy .env.example to .env and update your MySQL database username and password
+- Open CMD
+- Run composer install
+- Run php artisan migrate --seed (it has some seeded data for your testing)
+- Navigate to URL (Assuming this application is on web server like WAMP or XAMPP)
+
 
 ########################### Please note indicated (Complete) what has been completed.#####################
 
